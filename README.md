@@ -18,3 +18,14 @@ Identifying and segmenting these latent strategies will open promising avenues f
 
 ![Proposed GM](HMM.png)
 ## Full project report: [GM_HMM.pdf](GM_HMM.pdf)
+
+## References
+
+1. **Ashwood, Z. C., Roy, N. A., Stone, I. R., International Brain Laboratory, Urai, A. E., Churchland, A. K., Pouget, A., & Pillow, J. W. (2022). Mice alternate between discrete strategies during perceptual decision-making.** *Nature Neuroscience*, 25(2), 201–212. Nature Publishing Group US New York.
+2. **Bengio, Y., & Frasconi, P. (1994). An input output HMM architecture.** *Advances in Neural Information Processing Systems*, 7.
+3. **International Brain Laboratory, Aguillon-Rodriguez, V., Angelaki, D., Bayer, H., Bonacchi, N., Carandini, M., Cazettes, F., Chapuis, G., Churchland, A. K., Dan, Y., & others. (2021). Standardized and reproducible measurement of decision-making in mice.** *eLife*, 10, e63711. eLife Sciences Publications, Ltd.
+4. **Steckler, T. (2001). Using signal detection methods for analysis of operant performance in mice.** *Behavioural Brain Research*, 125(1–2), 237–248. Elsevier.
+5. **Odoemene, O., Pisupati, S., Nguyen, H., & Churchland, A. K. (2018). Visual evidence accumulation guides decision-making in unrestrained mice.** *Journal of Neuroscience*, 38(47), 10143–10155. Society for Neuroscience.
+6. **Luksys, G., Gerstner, W., & Sandi, C. (2009). Stress, genotype and norepinephrine in the prediction of mouse behavior using reinforcement learning.** *Nature Neuroscience*, 12(9), 1180–1186. Nature Publishing Group US New York.
+7. **Bathellier, B., Tee, S. P., Hrovat, C., & Rumpel, S. (2013). A multiplicative reinforcement learning model capturing learning dynamics and interindividual variability in mice.** *Proceedings of the National Academy of Sciences*, 110(49), 19950–19955. National Academy of Sciences.
+8. **Nowak, M., & Sigmund, K. (1993). A strategy of win-stay, lose-shift that outperforms tit-for-tat in the Prisoner's Dilemma game.** *Nature*, 364(6432), 56–58. Nature Publishing Group UK London.
